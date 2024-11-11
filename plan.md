@@ -5,3 +5,5 @@
 - Моделирование полёта в Kerbal Space Program
 - Подведение итогов, подготовка выступления
 - Защита проекта
+
+Ссылка на гугл диск: [тык](https://drive.google.com/drive/folders/1qE9TLU7ivPpa1IFJmYV7tCVXrdXkD99Q?usp=sharing)
