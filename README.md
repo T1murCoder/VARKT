@@ -17,4 +17,5 @@
 ## Ссылки
 - [Отчёт](https://docs.google.com/document/d/1qvToGI7bQRbBl8YTSXaRXr0lJzHw-Tlc/edit?usp=sharing&ouid=101673585198350260199&rtpof=true&sd=true)
 - [Видео с полётом](https://drive.google.com/file/d/1sS1ge-OUji6sVm5LNiN6A4n7Otokq7F2/view?usp=sharing)
-- [Видео-отчёт]() (В процессе)
+- [Видео-отчёт](https://drive.google.com/file/d/1jZV0FuRHSLDBCDyYUxp7Gqlzl8jwOc8l/view?usp=sharing)
+- [Презентация](https://docs.google.com/presentation/d/1l42RBon1H1P1YkmQy3ObtP3umtY3hzvz/edit?usp=sharing&ouid=101673585198350260199&rtpof=true&sd=true)
